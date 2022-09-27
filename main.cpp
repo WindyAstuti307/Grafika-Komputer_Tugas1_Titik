@@ -40,7 +40,7 @@ void display(void){
 int main(int argc, char **argv)
 {
 glutInit(&argc, argv);
-glutCreateWindow("E1E121089_gbrTitik");
+glutCreateWindow("Titik");
 glutDisplayFunc(objek);
 glutMainLoop();
 return 0;
